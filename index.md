@@ -1,4 +1,4 @@
 ---
-title: Welcome to Subhash blog
+title: Welcome to my blog
 ---
 
