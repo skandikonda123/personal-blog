@@ -1,8 +1,7 @@
-<!DOCTYPE html>
+
 <html>
 <body>
 
-<h1 </h1>
 <p> <li>Python coding lessons are a lot of fun and a terrific method to advance your programming abilities. This week, I began learning Python programming, and I find it to be quite intriguing.  
 The simplicity and clarity of the code are the key reasons I chose Python programming.</li> <li>Since I tend to recall little size codes rather than large ones, I thought the syntax was a little easier to remember.  
 I, therefore, began using this programming language this week, installing Python 3.9.12 on my computer at first.</li> <li>I picked up commands like (python  V) to see what version of Python my application is using. 
