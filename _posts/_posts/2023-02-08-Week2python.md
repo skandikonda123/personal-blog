@@ -1,4 +1,5 @@
-This week, I learned about the following data types in Python:
+This week, I learned about the following [datatypes](https://github.com/skandikonda123/personal-blog/blob/main/_posts/python_codes/datatypes.py)
+ in Python:
 
 1. `int`: Positive or negative whole numbers, such as -10, 0, or 10.
 
