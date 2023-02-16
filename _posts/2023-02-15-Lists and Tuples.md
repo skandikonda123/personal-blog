@@ -30,3 +30,7 @@ This implies that a tuple's contents cannot be modified once it has been constru
 They are therefore useful when you want to be sure that the data is continuous.  
 
 tuples are represented using parentheses, with the elements of the tuple separated by commas.
+
+The main challenge faced by me in this learning week of python is that Lists are mutable, which means that their contents can be changed, while tuples are immutable, which means that their contents cannot be changed.
+
+This can be confusing at first, especially if you're used to working with other programming languages.
