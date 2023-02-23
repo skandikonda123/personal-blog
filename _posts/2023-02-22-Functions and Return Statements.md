@@ -11,3 +11,5 @@ A crucial idea in function programming in Python is the 'Return Statement'. It e
 A function can be terminated and a value returned to the caller using the return statement. It is a Python keyword that is used in conjunction with an expression or a value that you want to return. 
 
 In addition to returning a value, it can also return a list, a dictionary, or even a function. Depending on the circumstances, it can also be used to exit a function early.
+
+Local and global variables and how the functions affect them were my biggest obstacles as I pursued these concepts.
